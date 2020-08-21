@@ -18,8 +18,6 @@
 ### Todos
 
  - Upload to the unreal engine marketplace
- - Add an in engine browser mode
- - Add option to open in a new window rather then in the active browser window 
  
 ---
 License
