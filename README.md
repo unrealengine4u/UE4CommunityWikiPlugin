@@ -1,5 +1,5 @@
 # Unreal Engine Community Wiki Button
-```note: last tested working in UE4 4.25.X```
+```last tested working in UE4 4.25.X```
 
 ---
 # Features
@@ -17,8 +17,9 @@
 ---
 ### Todos
 
- - Add an in engine browser mode
  - Upload to the unreal engine marketplace
+ - Add an in engine browser mode
+ - Add option to open in a new window rather then in the active browser window 
  
 ---
 License
