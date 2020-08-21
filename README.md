@@ -11,8 +11,7 @@
 ```
     F:\UE4\UE_4.25\Engine\Plugins\Marketplace
 ```
-```If the "Marketplace" folder does not exist, Then create it. ```
-  Then drag the " UE4CommunityWiki " folder in.
+```If the "Marketplace" folder does not exist, Then create it.``` Then drag the " UE4CommunityWiki " folder in.
 
 
 ---
