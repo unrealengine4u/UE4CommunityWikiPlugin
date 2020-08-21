@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UE4CommunityWiki",
+	"Description": "Adds a buttoin next to the marketplace button on the editor tool bar, that opens the unreal engine 4 community wiki in your default browser",
+	"Category": "Help",
+	"CreatedBy": "Flynn Coulter",
+	"CreatedByURL": "https://twitter.com/QUANDINI_",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "4.25.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UE4CommunityWiki",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
