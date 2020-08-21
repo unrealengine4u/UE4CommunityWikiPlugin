@@ -7,8 +7,8 @@
 
 ---
 ### Installation
-  Simply head to your unreal engine marketplace install directory. For example:
-```If the "Marketplace" folder does not exist, Then create it. ```
+  Simply head to your unreal engine marketplace install directory. 
+```If the "Marketplace" folder does not exist, Then create it. ```For example:
 ```
     F:\UE4\UE_4.25\Engine\Plugins\Marketplace
 ```
