@@ -1,5 +1,5 @@
 # Unreal Engine Community Wiki Button
-```last tested working in UE4 4.25.X```
+```last tested working in UE4 4.25.X (Will compile on 4.26.X)```
 
 ---
 # Features
@@ -17,7 +17,8 @@
 ---
 ### Todos
 
- - Upload to the unreal engine marketplace
+ - Upload to the unreal engine marketplace (More needed acording to epic)
+ - Provide a precompiled update for 4.26.X
  
 ---
 License
